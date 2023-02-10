@@ -2,6 +2,7 @@
 
 This is a chatgpt terminal interaction program developed using chatgpt-api for the purpose of initial experience learning.
 
+![](https://raw.githubusercontent.com/mihu915/picgo-images/master/images202302101446097.gif)
 
 ## Precondition
 
